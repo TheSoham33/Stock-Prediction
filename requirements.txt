@@ -6,3 +6,4 @@ streamlit
 streamlit_lottie
 yfinance
 matplotlib
+pandas_datareader
